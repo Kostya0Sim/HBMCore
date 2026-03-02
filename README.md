@@ -1,9 +1,11 @@
 # HBMCore
+HBMCore is a multiplayer Minecraft server designed for Hardcore gameplay with HBM's NTM Extended.
+
 ## Mods:
 - HBM's NTM: Extended
 - NTM Structure
 - Refined Storage
-- SM
+- SM (18+)
 - BetterBuildersWand
 - CTM
 - CarbonConfig
