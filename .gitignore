@@ -1,0 +1,12 @@
+cache.txt
+last.tar.gz
+a
+
+libraries
+mods
+
+*.jar
+*.log
+world*
+
+.DS_store
